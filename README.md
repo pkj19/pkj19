@@ -36,7 +36,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pkj19&" alt="pkj19" /></p>
 
 
-(https://github-readme-stats.vercel.app/api?username=pkj19&show_icons=true&theme=tokyonight)
+
 
 
 
