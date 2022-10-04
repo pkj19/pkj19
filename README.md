@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pradeep</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src = "https://twitter.com/Pradeep02716281/photo">
+<img src = "https://www.canva.com/design/DAFOFCS6skM/SY1DRBd_oOb7e9Qpgam3bA/view?utm_content=DAFOFCS6skM&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pkj19&label=Profile%20views&color=0e75b6&style=flat" alt="pkj19" /> </p>
 
