@@ -1,4 +1,4 @@
-<img align="center" src = "https://user-images.githubusercontent.com/63992247/193848411-72d961fd-8c60-4864-a17b-13859cb2054c.png">
+<img align="center" src = "">
 <h1 align="center">A passionate frontend developer from India</h1>
 
 
