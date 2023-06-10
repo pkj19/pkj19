@@ -1,4 +1,4 @@
-<img align="center" src = "">
+
 <h1 align="center">A passionate frontend developer from India</h1>
 
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/pradeep02716281" target="blank"><img src="https://img.shields.io/twitter/follow/pradeep02716281?logo=twitter&style=for-the-badge" alt="pradeep02716281" /></a> </p>
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **Spring**
 
 - 📫 How to reach me **pradeepku1902@gmail.com**
 
