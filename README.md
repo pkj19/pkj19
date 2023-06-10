@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pkj19" alt="pkj19" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/pradeep02716281" target="blank"><img src="https://img.shields.io/twitter/follow/pradeep02716281?logo=twitter&style=for-the-badge" alt="pradeep02716281" /></a> </p>
+
 
 - 🌱 I’m currently learning **Spring**
 
@@ -17,7 +17,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/pkj19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pkj19" height="30" width="40" /></a>
-<a href="https://twitter.com/pradeep02716281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pradeep02716281" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14718974" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14718974" height="30" width="40" /></a>
 <a href="https://kaggle.com/pkj104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pkj104" height="30" width="40" /></a>
 <a href="https://www.behance.net/pradeepjaiswal4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="pradeepjaiswal4" height="30" width="40" /></a>
