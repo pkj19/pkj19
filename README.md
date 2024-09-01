@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Spring**
 
-- 📫 How to reach me **pradeepku1902@gmail.com**
+- 📫 How to reach me **pradeepku1903@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
