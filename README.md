@@ -10,7 +10,7 @@
 
 
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **pradeepku1903@gmail.com**
 
